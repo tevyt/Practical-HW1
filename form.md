@@ -2,8 +2,8 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: AGER52LYZE4YHUMRDLODFMHEAMWMAU6HAVARGVZ74X7HWRUPWUVC5HC5PU
+* Address of account B: 2GLIAOLGFJNYH634EJ44QFIYX3JQ63FR6MUQT44LFIJWPPZD5PGWSK65O4
 
 ## Step 2:
 
