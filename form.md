@@ -7,8 +7,8 @@
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: ECQAXSWETUCFYEKJKII6RZD6R34P2ZI7JK6FSOHYFPRD2L3QXWAQ
+* Transaction ID from account B: TAANZPDKXKOXENF72SB6W5QTSVQUPF7XXUIWZNO6C34B7IFMRAKA
 
 ## Step 3.1:
 
