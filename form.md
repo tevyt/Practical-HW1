@@ -12,8 +12,8 @@
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 131837931
+* Name of the asset: GOD_DOG
 
 ## Step 3.2:
 
