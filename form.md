@@ -29,7 +29,7 @@
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: HOLTLOU5A5F3QPVDKLMX2TAQ4K7MYF7T52H46YYTYUUY34CHDEPA
 
 ## Step 5.2:
 
